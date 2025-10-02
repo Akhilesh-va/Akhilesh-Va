@@ -1,5 +1,5 @@
-# 💫 About Me:
-SDE @BookTranspo
+## 👋 Hi, I'm Akhilesh Singh Maurya<br><br>- 
+## SDE @BookTranspo
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akhilesh2002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhileshbltr2002@gmail.com) 
 
