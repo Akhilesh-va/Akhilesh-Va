@@ -1,7 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Akhilesh Singh Maurya<br><br>- 🔭 Currently working on: An Android app for Guidance Planet using Jetpack Compose.  <br>- 🤝 Looking to collaborate on: Android/Kotlin projects with modern architecture.  <br>- ❓ Looking for help with: Performance tuning in Jetpack Compose.  <br>- 🌱 Learning: Kotlin Multiplatform<br>- 💬 Ask me about: Jetpack Compose, MVVM, Hilt, Retrofit.  <br>- 😄 Fun fact: Built a quote-sharing app in one weekend — offline support included!<br><br><br><br><br><br><br>
-
-
+SDE @BookTranspo
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akhilesh2002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhileshbltr2002@gmail.com) 
 
